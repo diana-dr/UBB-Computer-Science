@@ -1,5 +1,9 @@
 # UBB Computer Science
 
+Semester 1
+
+:paperclip: [Fundamentals of Programming](https://github.com/diana-dr/Fundamentals-of-Programming)
+
 Semester 2
 
 :paperclip: [Object Oriented Programming](https://github.com/diana-dr/Object-Oriented-Programming)

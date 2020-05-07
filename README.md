@@ -1,2 +1,3 @@
 # UBB-Computer-Science
-University projects and homework
+
+Semester 2

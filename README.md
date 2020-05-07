@@ -15,3 +15,5 @@ Semester 3
 :paperclip: [Advanced Methods of Programming](https://github.com/diana-dr/Advanced-Methods-of-Programming)
 
 :paperclip: [Functional and Logical Programming](https://github.com/diana-dr/Functional-and-Logical-Programming)
+
+:paperclip: [Databases](https://github.com/diana-dr/Databases)

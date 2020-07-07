@@ -21,3 +21,9 @@ Semester 3
 :paperclip: [Functional and Logical Programming](https://github.com/diana-dr/Functional-and-Logical-Programming)
 
 :paperclip: [Databases](https://github.com/diana-dr/Databases)
+
+Semester 4
+
+:paperclip: [Web Programming](https://github.com/diana-dr/Web-Programming)
+
+:paperclip: [Artificial Intelligence](https://github.com/diana-dr/Artificial-Intelligence)

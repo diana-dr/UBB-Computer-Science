@@ -29,3 +29,5 @@ Semester 4
 :paperclip: [Artificial Intelligence](https://github.com/diana-dr/Artificial-Intelligence)
 
 :paperclip: [Systems for Design and Implementation](https://github.com/diana-dr/Systems-for-Design-and-Implementation)
+
+:paperclip: [Database Management Systems](https://github.com/diana-dr/Database-Management-Systems)

@@ -31,3 +31,7 @@ Semester 4
 :computer: [Systems for Design and Implementation](https://github.com/diana-dr/Systems-for-Design-and-Implementation)
 
 :cherries: [Database Management Systems](https://github.com/diana-dr/Database-Management-Systems)
+
+Semester 5
+
+:zap: [Formal Languages and Compiler Design](https://github.com/diana-dr/Formal-Languages-and-Compiler-Design)

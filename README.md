@@ -37,3 +37,5 @@ Semester 5
 :zap: [Formal Languages and Compiler Design](https://github.com/diana-dr/Formal-Languages-and-Compiler-Design)
 
 :wolf: [Parallel and Distributed Programming](https://github.com/diana-dr/Parallel-and-Distributed-Programming)
+
+:space_invader: [Virtual Reality](https://github.com/diana-dr/Virtual-Reality)
